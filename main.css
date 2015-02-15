@@ -17,3 +17,11 @@
 .menu {
       color: #000000;
 }
+
+.menu:link {
+      color: #808080;
+}
+
+.menu:visited {
+      color: #C0C0C0;
+}
