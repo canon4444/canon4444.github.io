@@ -1,11 +1,11 @@
 @charset UTF-8
 
-#title h1 {
+#title {
       color: #000000;
       font-size: 44px;
 }
 
-#title h4 {
+#sub_title {
       color: #000000;
       font-size: 24px;
 }
