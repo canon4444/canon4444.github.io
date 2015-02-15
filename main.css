@@ -3,12 +3,14 @@
 .title h1 {
       color: #000000;
       font-size: 36px;
+      text-align: center;
       margin: 10px auto;
 }
 
 .title h4 {
       color: #000000;
       font-size: 24px;
+      text-align: center;
       margin: 10px auto;
 }
 
