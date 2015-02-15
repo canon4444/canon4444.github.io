@@ -1,6 +1,6 @@
 @charset UTF-8
 
-#title {
+#title > h4 {
       color: red;
       font-size: 44px;
 }
