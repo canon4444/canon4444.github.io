@@ -1,5 +1,9 @@
 @charset UTF-8
 
+#tmp {
+      font-size: 10;
+}
+
 .title h1 {
       color: #ffffff;
       text-align: center;
