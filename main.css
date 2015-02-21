@@ -1,13 +1,13 @@
 @charset UTF-8
 
-.title h1 {
+.title {
       color: red;
       text-align: center;
 }
-.title h2 {
+/*.title h2 {
       color: #000000;
       text-align: center;
-}
+}*/
 
 .contents {
       color: #000000;
