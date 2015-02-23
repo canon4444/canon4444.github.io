@@ -24,3 +24,7 @@
 .contents:link {
       color: #808080;
 }
+#subject {
+      color: red;
+      text-align: left;
+}
