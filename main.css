@@ -24,6 +24,14 @@
 .contents:link {
       color: #808080;
 }
-#subject {
+.contents_table {
       color: red;
+      text-align: center;
+}
+.contents_tbody {
+      color: blue;
+      text-align: center;
+}
+#subject {
+      color: green;
 }
