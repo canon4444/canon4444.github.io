@@ -24,11 +24,3 @@
 .contents:link {
       color: #808080;
 }
-   
-.test {
-      color: red;
-      text-align: center;
-}
-.test:hover {
-      color: green;
-}
