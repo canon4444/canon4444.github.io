@@ -2,18 +2,12 @@
 
 .canon4444 {}
 
-.title h1 {
+.title {
       color: #000000;
-      text-align: center;
-}
-.title h2 {
-      color: #000000;
-      text-align: center;
 }
 
 .contents {
       color: #000000;
-      text-align: center;
 }
 .contents:hover {
       color: #AAAAAA;
@@ -24,19 +18,7 @@
 .contents:link {
       color: #808080;
 }
-.contents_table {
-      color: red;
-      text-align: center;
-}
-.contents_tbody {
-      color: blue;
-      text-align: center;
-}
-#subject {
-      color: #000000;
-}
 
 .foot {
-      color: red;
-      text-align: center;
+      color: #000000;
 }
