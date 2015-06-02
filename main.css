@@ -9,18 +9,10 @@
 .contents {
       color: #000000;
 }
-.contents:link {
-      color: #808080;
-}
-.contents:visited {
-      color: #C0C0C0;
-}
-contents:hover {
-      color: #AAAAAA;
-}
-.contents:active {
-      color: #FFFFFF;
-}
+.contents:link { color: #808080; }
+.contents:visited { color: #C0C0C0; }
+.contents:hover { color: #AAAAAA; }
+.contents:active { color: #FFFFFF; }
 
 .foot {
       color: #000000;
