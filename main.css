@@ -12,6 +12,9 @@
 .contents:link {
       color: #808080;
 }
+.contents:visited {
+      color: #C0C0C0;
+}
 .contents:hover {
       color: #AAAAAA;
 }
