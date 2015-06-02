@@ -9,13 +9,13 @@
 .contents {
       color: #000000;
 }
-div:link {
+.contents:link {
       color: #808080;
 }
 .contents:visited {
       color: #C0C0C0;
 }
-.contents:hover {
+div:hover {
       color: #AAAAAA;
 }
 .contents:active {
