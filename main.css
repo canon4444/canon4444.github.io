@@ -9,7 +9,7 @@
 .contents {
       color: #000000;
 }
-.contents:link {
+div:link {
       color: #808080;
 }
 .contents:visited {
