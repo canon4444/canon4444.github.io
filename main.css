@@ -9,14 +9,14 @@
 .contents {
       color: #000000;
 }
+.contents:link {
+      color: #808080;
+}
 .contents:hover {
       color: #AAAAAA;
 }
 .contents:active {
       color: #FFFFFF;
-}
-.contents:link {
-      color: #808080;
 }
 
 .foot {
