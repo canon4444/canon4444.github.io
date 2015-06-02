@@ -15,7 +15,7 @@
 .contents:visited {
       color: #C0C0C0;
 }
-div:hover {
+contents:hover {
       color: #AAAAAA;
 }
 .contents:active {
