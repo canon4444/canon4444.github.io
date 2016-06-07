@@ -2,18 +2,10 @@
 
 ### 各種リンク
 Twitter: [@HAL4hat](https://twitter.com/HAL4hat)
-
-GitHub: [canon4444][0]
-[0]: https://github.com/canon4444
-
-はてなブログ: [玉石混淆][0]
-[0]: http://canon4444.hatenablog.com/
-
-AtCoder: [canon4444][0]
-[0]: http://practice.contest.atcoder.jp/users/canon4444
-
-AOJ: [canon4444][0]
-[0]: http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444
+GitHub: [canon4444](https://github.com/canon4444)
+はてなブログ: [玉石混淆](http://canon4444.hatenablog.com/)
+AtCoder: [canon4444](http://practice.contest.atcoder.jp/users/canon4444)
+AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)
 
 
 ### 履歴
