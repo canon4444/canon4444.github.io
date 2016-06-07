@@ -7,9 +7,15 @@ GitHub: [canon4444](https://github.com/canon4444)
 AtCoder: [canon4444](http://practice.contest.atcoder.jp/users/canon4444)  
 AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)  
 
+
 ### 言語
 自然言語: 日本語，英語，汉语  
 プログラミング言語: C，C++，Java，Perl，Python，JavaScript，html，css，Arduino, Processing  
+
+
+### 専門
+自然言語処理  
+ソフトウェア工学
 
 
 ### 履歴
