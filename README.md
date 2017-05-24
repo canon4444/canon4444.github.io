@@ -9,7 +9,7 @@ AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)
 
 
 ### 言語
-自然言語: 日本語，英語，<s>汉语</s>  
+自然言語: 日本語，英語，<s>汉语</s>  
 プログラミング言語: C，C++，Java，Perl，Python，<s>JavaScript，html，css</s>，Arduino, Processing  
 
 
