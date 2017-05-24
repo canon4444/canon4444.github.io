@@ -8,9 +8,9 @@ AtCoder: [canon4444](http://practice.contest.atcoder.jp/users/canon4444)
 AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)  
 
 
-### 言語
-自然言語: 日本語，英語，<s>汉语</s>  
-プログラミング言語: C，C++，Java，Perl，Python，<s>JavaScript，html，css</s>，Arduino, Processing  
+### 言語（できる気がする順）
+自然言語: 日本語， 英語， <s>汉语</s>  
+プログラミング言語: C, C++, Processing, Arduino, Perl, Java, Python, <s>JavaScript, html, css</s>  
 
 
 ### 専門
@@ -24,10 +24,10 @@ AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)
 2007/03 小学校卒業  
 2007/04 中学校入学  
 2010/03 中学校卒業  
-2010/04 山口県立宇部高等学校 普通科 入学  
-2013/03 山口県立宇部高等学校 普通科 卒業  
-2013/04 徳島大学 工学部 知能情報工学科　入学  
-2017/03 徳島大学 工学部 知能情報工学科　卒業  
+2010/04 山口県立宇部高等学校 普通科 入学  
+2013/03 山口県立宇部高等学校 普通科 卒業  
+2013/04 徳島大学 工学部 知能情報工学科 入学  
+2017/03 徳島大学 工学部 知能情報工学科 卒業  
 2017/04 奈良先端科学技術大学院大学入学
 2019/03 ???
 
