@@ -1,5 +1,6 @@
 # canon4444.github.io
 
+
 ### 各種リンク
 Twitter: [@HAL44T](https://twitter.com/HAL44T)  
 GitHub: [canon4444](https://github.com/canon4444)  
@@ -9,8 +10,8 @@ AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)
 
 
 ### 言語（できる気がする順）
-自然言語: 日本語， 英語， <s>汉语</s>  
-プログラミング言語: C, C++, Processing, Arduino, Perl, Java, Python, <s>JavaScript, html, css</s>  
+自然言語: 日本語， 英語， ~~汉语~~
+プログラミング言語: C, C++, Processing, Arduino, Perl, Java, Python, ~~JavaScript, html, css~~
 
 
 ### 専門
@@ -28,7 +29,7 @@ AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)
 2013/03 山口県立宇部高等学校 普通科 卒業  
 2013/04 徳島大学 工学部 知能情報工学科 入学  
 2017/03 徳島大学 工学部 知能情報工学科 卒業  
-2017/04 奈良先端科学技術大学院大学入学  
+2017/04 奈良先端科学技術大学院大学 情報科学研究科 博士前期課程 入学  
 2019/03 ???
 
 
@@ -42,10 +43,18 @@ AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)
 
 
 ### 参加
-CODE THANKS FESTIVAL 2014
+CODE THANKS FESTIVAL 2014  
 
 
-### 制作物（思い出し次第書き足す予定）
-####
+### 制作物
+####　個人制作のゲーム
 #### Seize The Flag
-#### 
+#### タイピング練習ソフトウェア
+#### 完全自律型ロボットの設計
+#### Twitter上の575の検出
+
+
+#### TODO
++ 受賞欄
++ 制作物
++ これを https://canon4444.github.io に移植
