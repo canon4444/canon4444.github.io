@@ -10,13 +10,13 @@ AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)
 
 
 ### 言語（できる気がする順）
-自然言語: 日本語， 英語， ~~汉语~~
-プログラミング言語: C, C++, Processing, Arduino, Perl, Java, Python, ~~JavaScript, html, css~~
+自然言語: 日本語， 英語， ~~汉语~~  
+プログラミング言語: C, C++, Processing, Arduino, Perl, Java, Python, ~~JavaScript, html, css~~  
 
 
 ### 専門
 自然言語処理  
-ソフトウェア工学
+ソフトウェア工学  
 
 
 ### 履歴
@@ -30,13 +30,13 @@ AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)
 2013/04 徳島大学 工学部 知能情報工学科 入学  
 2017/03 徳島大学 工学部 知能情報工学科 卒業  
 2017/04 奈良先端科学技術大学院大学 情報科学研究科 博士前期課程 入学  
-2019/03 ???
+2019/03 ???  
 
 
 ### 受賞
 2014 TMTY :: TODO  
 ???? NHK川柳  :: TODO  
-2013 第11回とくしま文学賞 現代詩 佳作（「文芸とくしま」第11号掲載）  
+2013 第11回とくしま文学賞 現代詩 佳作（「文芸とくしま」第11号掲載）  
 2014 第12回とくしま文学賞 現代詩 佳作（「文芸とくしま」第12号掲載）  
 2015 第13回とくしま文学賞 現代詩 佳作（「文芸とくしま」第13号掲載）  
 2017 日亜賞  :: TODO  
@@ -47,14 +47,14 @@ CODE THANKS FESTIVAL 2014
 
 
 ### 制作物
-####　個人制作のゲーム
+#### 個人制作のゲーム
 #### Seize The Flag
 #### タイピング練習ソフトウェア
 #### 完全自律型ロボットの設計
 #### Twitter上の575の検出
 
 
-#### TODO
-+ 受賞欄
+### TODO
++ 受賞
 + 制作物
 + これを https://canon4444.github.io に移植
