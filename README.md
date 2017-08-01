@@ -13,6 +13,13 @@ AOJ-ICPC: [canon4444](http://aoj-icpc.ichyo.jp/?aoj_rivals=&sort2_order=desc&yea
 ### 言語（できる気がする順）
 自然言語: 日本語， 英語， ~~汉语~~  
 プログラミング言語: C, C++, Processing, Arduino, Perl, Java, Python, ~~JavaScript, html, css~~  
++ C, C++: 基本的なことはできます．競プロはこれです．
+
+以下はブランクがあるので，多少検索しながらであれば使えます．
+
++ Perl: 講義でしました．卒研でもスクレイピングで使いました．
++ Java (Processing): 講義でしました．Processingは書けるので，特殊な関数を呼んだり，classを作ってどうとかしなければできると思います．
++ Arduino: プログラミング言語というよりは組込みかもしれません．
 
 
 ### 専門
