@@ -1,7 +1,7 @@
 # canon4444.github.io
 
 
-### 各種リンク
+## 各種リンク
 Twitter: [@HAL4hat](https://twitter.com/HAL4hat)  
 GitHub: [canon4444](https://github.com/canon4444)  
 はてなブログ: [玉石混淆](http://canon4444.hatenablog.com/)  
@@ -10,7 +10,7 @@ AOJ: [canon4444](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=canon4444)
 AOJ-ICPC: [canon4444](http://aoj-icpc.ichyo.jp/?aoj_rivals=&sort2_order=desc&year_max=&source4=1&aoj_username=canon4444&point_max=1200&sort1_order=asc&source2=1&source3=1&source1=1&point_min=100&sort2_by=num_aoj_acceptances&year_min=&sort1_by=point)  
 
 
-### 言語（できる気がする順）
+## 言語（できる気がする順）
 自然言語: 日本語， 英語， ~~汉语~~  
 プログラミング言語: C, C++, Processing, Arduino, Perl, Java, Python, ~~JavaScript, html, css~~  
 + C, C++: 基本的なことはできます．競プロはこれです．
@@ -22,12 +22,12 @@ AOJ-ICPC: [canon4444](http://aoj-icpc.ichyo.jp/?aoj_rivals=&sort2_order=desc&yea
 + Arduino: プログラミング言語というよりは組込みかもしれません．
 
 
-### 専門
+## 専門
 自然言語処理  
 ソフトウェア工学  
 
 
-### 履歴
+## 履歴
 1994/00 誕生  
 2001/04 小学校入学  
 2007/03 小学校卒業  
@@ -40,11 +40,11 @@ AOJ-ICPC: [canon4444](http://aoj-icpc.ichyo.jp/?aoj_rivals=&sort2_order=desc&yea
 2017/04 奈良先端科学技術大学院大学 情報科学研究科 情報科学専攻 博士前期課程 入学  
 2019/03 奈良先端科学技術大学院大学 情報科学研究科 情報科学専攻 博士前期課程 卒業予定  
 
-#### アルバイト
+### アルバイト
 2016/11/07〜2016/12/31 ILU  
+2017/10/01〜某  
 
-
-### 受賞
+## 受賞
 2014 TMTY :: TODO  
 ???? NHK川柳  :: TODO  
 2013 第11回とくしま文学賞 現代詩 佳作（「文芸とくしま」第11号掲載）  
@@ -53,33 +53,33 @@ AOJ-ICPC: [canon4444](http://aoj-icpc.ichyo.jp/?aoj_rivals=&sort2_order=desc&yea
 2017 日亜賞  :: TODO  
 
 
-### 参加
+## 参加
 CODE THANKS FESTIVAL 2014  
 
 
-### 制作物
-#### 個人制作のゲーム
+## 制作物
+### 個人制作のゲーム
 + JSでブロック崩し
 + Processingで16パズル（製作中）
 
-#### Seize The Flag
+### Seize The Flag
 + 作品の開発期間: 約5ヶ月
 + 開発人数： 4人
 + 開発言語： C
 + 役割： 企画・プログラミング
 概　　要：Catch The Flag型チーム対戦アクションゲーム．旗を持ち帰った場合に，チーム共有の全所持金がスコアに変換されるところが醍醐味になっている．武器だけでなく，設置物や罠があり，それぞれの種類も多い．
 結　　果：好評だった．
-##### 作品の背景、目的
-##### 作品のこだわり
-##### 作品に採用した技術
+#### 作品の背景、目的
+#### 作品のこだわり
+#### 作品に採用した技術
 
 
-#### タイピング練習ソフトウェア
-#### 完全自律型ロボットの設計
-#### Twitter上の575の検出
+### タイピング練習ソフトウェア
+### 完全自律型ロボットの設計
+### Twitter上の575の検出
 
 
-### TODO
+## TODO
 + 受賞
 + 制作物
 + これを https://canon4444.github.io に移植
