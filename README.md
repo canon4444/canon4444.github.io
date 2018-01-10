@@ -87,5 +87,5 @@ CODE THANKS FESTIVAL 2014
 + 趣味は音ゲーとか写真とか数独とか．人間味を感じたいならとりあえずTwitterを眺めるといいと思うので，何を書けばいいか不明．
 
 
-### 雑記
-[テストページ](https://canon4444.github.io/test/index.html)  
+#### その他
+[CSS確認用のテストページ](https://canon4444.github.io/test/index.html)  
