@@ -27,6 +27,10 @@ AOJ-ICPC: [canon4444](http://aoj-icpc.ichyo.jp/?aoj_username=canon4444)
 ソフトウェア工学  
 
 
+## 免許
+2013年8月 普通自動車運転免許 取得  
+
+
 ## 履歴
 1994/00 誕生  
 2001/04 小学校入学  
